@@ -1,0 +1,13 @@
+
+ccxt==4.3.56
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+PyQt6==6.8.1
+PyQt6-Qt6==6.8.2
+pyqtgraph==0.13.3
+requests==2.31.0
+pytest==8.0.0
+structlog==24.1.0
+
+keyring

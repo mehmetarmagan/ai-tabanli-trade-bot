@@ -1,0 +1,45 @@
+# Python önbellek ve derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Sanal ortam klasörleri (venv, env vb.)
+venv/
+ENV/
+env/
+.env
+
+# Hassas Konfigürasyonlar ve Anahtarlar
+.env
+.env.local
+.env.*.local
+
+# IDE ve Editör Dosyaları (VS Code)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Loglar ve geçici veritabanları
+*.log
+*.sqlite
+*.db
